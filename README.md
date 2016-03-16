@@ -2,16 +2,16 @@
 Python cli tool to analyse Apache access log for quick troubleshooting
 At this time you can use this tool to get information such as:
 
-1- The Top 10 IPs that make the higest connection to your web server
-2- The Top 10 IPs with their Locations
-3- Calculate the Total Bandwidth 
-4- The Top status codes and their occurrence
-5- The Top 10 Requests and their occurrence
-6- The Top Referrers and their occurrence
-7- The Top Agents and their occurrence
-8- The Top IPs that return status codes such as (400,401,403,404 and 500,502,503,504)
-9- The Top Referrers that return status codes such as (400,401,403,404 and 500,502,503,504)
-10- The Top Requests that return status codes such as (400,401,403,404 and 500,502,503,504)
+- The Top 10 IPs that make the higest connection to your web server
+- The Top 10 IPs with their Locations
+- Calculate the Total Bandwidth 
+- The Top status codes and their occurrence
+- The Top 10 Requests and their occurrence
+- The Top Referrers and their occurrence
+- The Top Agents and their occurrence
+- The Top IPs that return status codes such as (400,401,403,404 and 500,502,503,504)
+- The Top Referrers that return status codes such as (400,401,403,404 and 500,502,503,504)
+- The Top Requests that return status codes such as (400,401,403,404 and 500,502,503,504)
 
 # Usage
 This Tool is easy to use 
