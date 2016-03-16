@@ -39,3 +39,11 @@ I want to add a lot to the next version so any contribution would be great, for 
 # Limits
 - The tool took some time with the large files but it returns the result with now issue (I have tested it on a 6GB access log file)
 - With large files you need More memory 
+
+# ScreenShoots
+- http://screenshot.net/vwv65sz
+- http://screenshot.net/veqykiv
+- http://screenshot.net/vjdyei5
+
+# Contact Me
+- https://goo.gl/WD4T3r (Linkedin)
