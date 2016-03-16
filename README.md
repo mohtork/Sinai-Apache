@@ -13,6 +13,15 @@ At this time you can use this tool to get information such as:
 - The Top Referrers that return status codes such as (400,401,403,404 and 500,502,503,504)
 - The Top Requests that return status codes such as (400,401,403,404 and 500,502,503,504)
 
+# Dependencies
+You should install both geoip2.database and PrettyTable , It's easy to install both using the pip
+- pip install geoip2
+- pip install PrettyTable
+
+Also you need to download the GEOIP2 Database from
+- https://dev.maxmind.com/geoip/geoip2/geolite2/
+Then unzip the file to the same location that has sinai.py file
+
 # Usage
 This Tool is easy to use 
 python sinai.py access.log  --topip
