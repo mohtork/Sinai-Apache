@@ -37,7 +37,7 @@ I want to add a lot to the next version so any contribution would be great, for 
 - Get Requests , Referrers , IPs for the last hour
 
 # Limits
-- The tool took some time with the large files but it returns the result with now issue (I have tested it on a 6GB access log file)
+- The tool took some time with the large files but it returns the result with no issue (I have tested it on a 6GB access log file)
 - With large files you need More memory 
 
 # ScreenShoots
